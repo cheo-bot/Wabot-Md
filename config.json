@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6289653381067@s.whatsapp.net"],
+  "ownerName": ["Xyann"],
+  "botName": "GhosKyy Bid V3.0",
+  "sessionName": "Xyann",
+  "pathimg": "./media/Jojo.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
